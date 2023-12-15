@@ -1,6 +1,6 @@
 # DIO | Resumos Git e GitHub
 
-Repositório para armazenar resumos sobre Git e GitHub do curso Versionamento de código com Git e GitHub
+epositório para armazenar resumos sobre Git e GitHub do curso Versionamento de código com Git e GitHub
 [Digital Innovation One] (https://github.com/AgathaRosaa/hello-world). 
 
 ## Resumos das aulas
